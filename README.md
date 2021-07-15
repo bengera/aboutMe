@@ -1,4 +1,4 @@
-### Hi there, I'm Ben 👋
+# Hi there, I'm Ben 👋
 
 
 
@@ -24,4 +24,4 @@
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengera&theme=tokyonight)
+
