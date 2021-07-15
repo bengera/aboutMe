@@ -4,8 +4,8 @@
 
 ## I'm a Front-End Developer from the UK, currently living in Vietnam.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning JavaScript 🤣
+- 🔭 I'm working on a classroom management tool and a website that will host a list of classroom activities for ESL teachers.
+- 🌱 I’m currently learning JavaScript 
 - 🥅 2021 Goals: Have a portfolio with at least 2 major projects and a few smaller ones related to web development.
 
 
@@ -19,4 +19,4 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
