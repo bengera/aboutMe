@@ -6,7 +6,7 @@
 
 - 🔭 I'm working on a classroom management tool and a website that will host a list of classroom activities for ESL teachers.
 - 🌱 I’m currently learning JavaScript 
-- 🥅 2021 Goals: Have a portfolio with at least 2 major projects and a few smaller ones related to web development.
+- 🥅 2022 Goals: Have a portfolio with at least 2 major projects and a few smaller ones related to web development.
 
 
 <br />
